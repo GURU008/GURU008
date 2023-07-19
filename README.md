@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming, Tesseract OCR
 - 🌱 I’m currently learning Machine Learning, Tesseract OCR
 - 💞️ I’m looking to collaborate on Python Programming
-- 📫 How to reach me Contact me: epythonguru@gmail.com, jaspreetkaurguru8@gmail.com
+- 📫 How to reach me Contact me: epythonguru@gmail.com
 - ✨ My Official Website: www.epythonguru.com
 
 <!---
