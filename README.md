@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JaspreetKaurGuru Username @GURU0008 
+- 👋 Hi, I’m JaspreetKaurGuru Username @GURU008 
 - 👀 I’m interested in Python Programming, Tesseract OCR
 - 🌱 I’m currently learning Machine Learning, Tesseract OCR
 - 💞️ I’m looking to collaborate on Python Programming
